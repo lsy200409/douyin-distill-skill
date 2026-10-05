@@ -1,0 +1,21 @@
+{
+  "blogger": "填一个账号备注名",
+  "douyin_home": "https://www.douyin.com/user/<把这里换成对方的 SEC_UID>",
+  "urls_file": "urls.txt",
+  "cookies_file": "cookies.txt",
+  "download_dir": "downloads",
+  "transcript_dir": "transcripts",
+  "frames_dir": "frames",
+  "cards_dir": "cards",
+  "scrape_max_videos": 80,
+  "num_frames": 8,
+  "delete_videos": false,
+  "whisper_model": "small",
+  "whisper_device": "cpu",
+  "headful": true,
+  "llm": {
+    "base_url": "https://api.deepseek.com/v1",
+    "api_key": "",
+    "model": "deepseek-chat"
+  }
+}

@@ -1,0 +1,21 @@
+# 本地状态与隐私，别提交
+cookies.txt
+*.cookies
+config.json
+
+# 抓下来的数据与产物
+urls.txt
+downloads/
+transcripts/
+frames/
+cards/
+meta-*.jsonl
+*.mp4
+*.mp3
+*.wav
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
